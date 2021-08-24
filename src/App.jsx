@@ -7,7 +7,7 @@ import './main.css';
 // ArcGIS
 // import '@arcgis/core/assets/esri/themes/light/main.css';
 
-// import any of these two line cause static file loading slow
+// import any of these two lines cause static file loading slow
 import Map from '@arcgis/core/Map';
 import MapView from '@arcgis/core/views/MapView';
 
