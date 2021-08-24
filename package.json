@@ -1,0 +1,16 @@
+{
+    "name": "preact-starter",
+    "version": "0.0.1",
+    "description": "A simple project using Preact.js and esbuild. What could go wrong?",
+    "dependencies": {
+        "@arcgis/core": "^4.20.2",
+        "preact": "^10.5.14"
+    },
+    "devDependencies": {
+        "esbuild": "^0.12.22"
+    },
+    "scripts": {
+        "build": "node esbuild.js",
+        "start": "node esbuild-dev.js"
+    }
+}
