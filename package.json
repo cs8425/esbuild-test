@@ -12,6 +12,7 @@
     },
     "scripts": {
         "build": "node esbuild.js",
-        "start": "node esbuild-dev.js"
+        "start": "node esbuild-dev.js",
+        "start-slow": "node esbuild-dev-slow.js"
     }
 }
